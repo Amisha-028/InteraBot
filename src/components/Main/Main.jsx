@@ -19,20 +19,20 @@ const Main = () => {
           </div>
           <div className="cards">
             <div className="card">
-              <p>Suggest beautiful places</p>
+              <p>Suggest beautiful places to see on an upcoming road trip</p>
               <img src={assets.compass_icon} alt="" />
 
             </div>
             <div className="card">
-              <p>Suggest beautiful places 1</p>
+              <p>Briefly, summarize this concept: urban planning</p>
               <img src={assets.bulb_icon} alt="" />
             </div>
             <div className="card">
-              <p>Suggest beautiful places 2</p>
+              <p>Text inviting neighbour to barbeque</p>
               <img src={assets.message_icon} alt="" />
             </div>
             <div className="card">
-              <p>Suggest beautiful places 3</p>
+              <p>improve the readiblity of the following code</p>
               <img src={assets.code_icon} alt="" />
             </div>
           </div>
