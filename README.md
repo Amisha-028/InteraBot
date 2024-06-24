@@ -1,6 +1,6 @@
 # Interabot: GeminiAI Clone
 
-## GeminiAIClone
+## GeminiAI Clone
 <div style="text-align: justify;">
   This repository contains the code for a clone of Gemini AI, a large language model (LLM) capable of generating various creative text formats, such as poems, code, scripts, musical pieces, emails, letters, etc. It can also translate languages and provide informative answers to questions. Essentially, this AI model can be instructed to perform a wide range of tasks.
 </div>
